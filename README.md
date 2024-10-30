@@ -48,3 +48,6 @@ To get started with the project, follow these steps:
 
 **This project is licensed under the MIT License**
 
+## Deployment
+
+Site is deployed at: https://jobportal-nm3806.netlify.app/
